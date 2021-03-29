@@ -1,0 +1,1 @@
+# amamov coding test practice
