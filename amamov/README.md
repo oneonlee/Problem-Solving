@@ -1,3 +1,3 @@
 # amamov coding test practice
 
-부자되자!
+Z1존 상석 부자되자!
