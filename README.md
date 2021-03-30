@@ -1,10 +1,14 @@
 # Fuck You Coding Test
 
-💚 I'm serious 💚
+> 💚  I'm serious 💚
+
+<br>
 
 ```python
 with amamov, aromgu
 ```
+
+<br>
 
 ## Rule
 
