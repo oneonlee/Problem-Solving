@@ -1,4 +1,5 @@
 # 조짐ㅋ 일단 조금씩 더 수정 해보고있음 ㅋㅋ
+# 화이팅!
 
 def solution(new_id):
     lower = new_id.lower()
