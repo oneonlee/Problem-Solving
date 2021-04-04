@@ -5,10 +5,9 @@
 <br>
 
 ```python
-with amamov, aromgu
-
-while Happy:
-  computer.run()
+with amamov and aromgu as f:
+  while Happy:
+    computer.run()
 ```
 
 
