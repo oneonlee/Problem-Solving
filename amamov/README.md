@@ -4,7 +4,7 @@ Z1존 상석 부자되자!
 
 ## 프로그래머스
 
-- [LINK](https://programmers.co.kr/learn/challenges)
+### [LINK](https://programmers.co.kr/learn/challenges)
 
 ### 1 단계
 
