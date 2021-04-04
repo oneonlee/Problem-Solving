@@ -1,10 +1,15 @@
 ## Fuck You Coding Test
 
+<br>
+
 💚  I'm serious 💚
 
 
 ```python
 with amamov, aromgu
+
+while Happy:
+  computer.run()
 ```
 
 <br>
