@@ -4,10 +4,6 @@ Z1존 상석 부자되자!
 
 <br>
 
----
-
-<br>
-
 ## 프로그래머스
 
 ### [LINK](https://programmers.co.kr/learn/challenges)
