@@ -2,8 +2,9 @@
 
 <br>
 
-💚  I'm serious 💚
+### 💚  I'm serious 💚
 
+<br>
 
 ```python
 with amamov, aromgu
@@ -11,6 +12,7 @@ with amamov, aromgu
 while Happy:
   computer.run()
 ```
+
 
 <br>
 
