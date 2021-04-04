@@ -1,3 +1,12 @@
 # amamov coding test practice
 
 Z1존 상석 부자되자!
+
+## 프로그래머스
+
+### 1 단계
+
+- [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
+- [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [모든 레코드 조회하기)(https://programmers.co.kr/learn/courses/30/lessons/59034)
+- 
