@@ -1,8 +1,6 @@
-## Fuck You Coding Test
+# Fuck You Coding Test
 
-<br>
-
-### 💚  I'm serious 💚
+## 💚  I'm serious 💚
 
 <br>
 
