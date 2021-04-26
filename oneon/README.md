@@ -1,4 +1,4 @@
-# oneo coding test practice
+# oneon coding test practice
 
 ![](https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/524/2fefdc02e718d784645e0e2c7324b1e8.jpeg)
 
