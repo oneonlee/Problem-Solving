@@ -1,0 +1,5 @@
+def solution(a, b):
+    dot = []
+    for i in range(len(a)):
+        dot.append(a[i]*b[i])
+    return sum(dot)
