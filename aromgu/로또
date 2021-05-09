@@ -1,0 +1,24 @@
+# 정확도 66.7/100 나옴 ㅡㅡ if 문 저렇게 하는거 비효율적으로 느껴지면서도 다른 방법 몰라서 저렇게 함 ㅜ 젠장
+
+def solution(lottos, win_nums):  
+    min = []
+    for i in win_nums:
+        if i in lottos:
+            min.append(i)
+    zeros = lottos.count(0)    
+    def score(num):
+        if num == 6:
+            return 1
+        if num == 5:
+            return 2
+        if num == 4:
+            return 3
+        if num == 3:
+            return 2
+        if num == 2:
+            return 5
+        else:
+            return 6
+    answer = [score(len(min)+zeros), score(len(min))]
+    return answer
+   
