@@ -43,6 +43,13 @@ with amamov and aromgu and oneon as f:
 ---
 
 <br>
+## 5월 17일까지 문제
+
+1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+
+2. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+
+3. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
 ## 5월 10일까지 문제
 
